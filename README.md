@@ -3,16 +3,6 @@
 This is a data-focussed technical assessment task for Software Engineering roles at [harrison.ai](harrison.ai).
 It consists of two parts: a coding exercise, and a design exercise.
 
-You should take a copy of this repo, add your solutions for each part, and push them to GitHub for review and discussion in a follow-up interview.
-You're welcome to use a private repository, as long as it's visible to the following users:
-
-* @rfk
-* @timlesie
-* @oliverdaff
-* @TanyaSrinidhi
-* @suzy-hai
-* @daniellohrey-hai
-
 ## Background: DICOM
 
 Digital Imaging and Communications in Medicine (DICOM) is a standard format for sharing medical image information.
